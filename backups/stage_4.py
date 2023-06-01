@@ -1,3 +1,4 @@
+# Project: Loan Calculator
 # Stage 4/4: Differentiate payment
 import math
 import argparse
